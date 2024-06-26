@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning graduate mathematics (topology, analysis, group theory)
 - 💞️ I’m looking to collaborate on ... studying
 - 📫 How to reach me:
-  - email: ewaiss@butler.edu
+  - email: ewaiss snailsign butler ldot edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love learning and playing new board games!
 
