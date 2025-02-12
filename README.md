@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @eleanorwaiss
 - 👀 I’m interested in mathematics, specifically holomorphic dynamics, fractal geometry, and certain number theory & computer science topics
-- 🌱 I’m currently learning graduate mathematics (topology, analysis, group theory)
-- 💞️ I’m looking to collaborate on ... studying
 - 📫 How to reach me:
   - email: ewaiss snailsign butler ldot edu
 - 😄 Pronouns: she/her/hers
